@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Daniel 👋
 
+## About me
+🧑‍💻 I'm from Stuttgart, Germany and currently working  at [dbe.Academy](https://www.dbe.academy/).\
+🛠️ I have always passion for learning any technology things\
+💡 I love to solve problems with my technical knowledge and enjoy the challenge of finding elegant solutions to complex issues.\
+💬 Let's get in touch and talk about programming and ideas.  
 <!--
 **drexlma/drexlma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
